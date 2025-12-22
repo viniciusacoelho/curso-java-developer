@@ -8,6 +8,7 @@ public class SmartTv {
     }
 
     public void aumentarCanal() {
+        // novoCanal -> não existe essa variável, só no outro método
         canal++;
     }
     
